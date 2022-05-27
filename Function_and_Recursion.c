@@ -2,7 +2,7 @@
 
 //                  Functions
 //                 ----------
-// take argument    do work    return result
+// take argument --> do work --> return result
 
 // it can be used multiple times
 // increse code reusability
