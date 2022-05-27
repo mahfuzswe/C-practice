@@ -21,3 +21,12 @@ int main()
 
     return 0;
 }
+
+// output:
+// enter number: 6
+// 6
+// enter number: 8
+// 8
+// enter number: 5
+// 5
+// Thank you!
