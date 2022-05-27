@@ -21,3 +21,14 @@ int main()
     printf("Thank you!");
     return 0;
 }
+
+// output:
+// Enter number: 4
+// 4
+// Enter number: 12
+// 12
+// Enter number: 17
+// 17
+// Enter number: 14
+// 14
+// Thank you!
