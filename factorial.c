@@ -20,4 +20,4 @@ int main()
 
 // output:
 // Enter number: 5
-// Final factorial is: 120
+// Final factorial is: 120 
