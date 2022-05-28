@@ -23,3 +23,7 @@ void printGoodbye()
 {
     printf("Goodbye!\n");
 }
+
+// output:
+// Hello!
+// Goodbye!
