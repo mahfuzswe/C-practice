@@ -35,7 +35,7 @@ int sum(int n)
     }
 
     int sumNm = sum(n - 1); // sum of 1 to n
-    int sumN = sumNm + n;
+    int sumN = sumNm + n;   // sum(n)=sum(n-1)+n
     return sumN;
 }
 
