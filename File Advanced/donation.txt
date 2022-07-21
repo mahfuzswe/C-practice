@@ -1,0 +1,5 @@
+Shanto 100
+Rifat 200
+Noman 300
+Manik 500
+Alim 600
