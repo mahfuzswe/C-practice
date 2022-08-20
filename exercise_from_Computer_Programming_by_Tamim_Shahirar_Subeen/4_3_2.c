@@ -4,7 +4,7 @@ int main()
 {
     while (1)
     {
-        printf("I love travel!\n");
+        printf("I love travelling!\n");
     }
     return 0;
 }
