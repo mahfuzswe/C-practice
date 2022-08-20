@@ -10,7 +10,11 @@ int main()
     }
     for(i=0 ; i<10; i++){
         sum=sum+a[i];
-    }
+     }
     printf("Sum of the array: %d\n",sum);
+    
+    
+    
+    
     return 0;
 }
