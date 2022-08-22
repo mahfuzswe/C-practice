@@ -9,6 +9,7 @@ int main()
         if(arr[i]==7)
         {
             printf("arr[%d]\n",i);
+
         }
     }
 
